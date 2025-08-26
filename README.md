@@ -39,14 +39,6 @@ Here is a preview of the dashboard:
 
 ---
 
-## 📂 Project Structure
-excel-dashboard/
-│── Dashboard.xlsm # Interactive Excel dashboard (with macros)
-│── Screenshot.png # Screenshot of dashboard
-│── README.md # Project documentation
-
-
----
 
 ## 🚀 How to Use
 1. **Download** the `.xlsm` file from this repository.  
