@@ -69,5 +69,5 @@ You can directly view/download the Excel dashboard from OneDrive here:
 ## 👤 Created by
 **Mayank Gocher**  
 📧 Email: mayankgocher03745@gmail.com  
-💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/mayankgocher)  
+💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/mayank-gocher-136191214/)  
 🌐 GitHub: [Your GitHub Profile](https://github.com/mayankgocher)  
